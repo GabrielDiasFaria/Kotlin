@@ -1,0 +1,18 @@
+/*
+
+Manifest:
+* Todas as informações do App
+* Base do App
+* Tudo que ele vai fazer e usar
+
+Java
+* Activitys
+    * Atrelado a Res/Layout/Activitys
+    * JAVA/Kotlin é o código do layout
+
+Res
+* Imagens, Layouts, Mapas, Values
+
+
+
+*/
